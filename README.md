@@ -9,6 +9,10 @@
    - SQL
    - REST-APIs
    - Gitlab CI
- - tech stack 🖥️ (personal projects)
+   - Linux
+ - tech stack 🖥️ (for fun)
    - JS / React
+   - Spring Boot
+   - Kafka
    - Github Actions
+   - No-SQL
